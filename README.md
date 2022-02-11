@@ -1,24 +1,32 @@
-# Password-generator
+# Password Generator
+This project is designed by OSU coding bootcamp. Given HTML and CSS, create a random password generator prompted with different criterias using JavaScript. 
 
+## Direction
+1. Click "generate password"
+2. Prompted to enter desired password length (must be between 8 to 128)
+3. Prompted for character types to include in the password (must include one criteria below)
+   
+   * include lowercase characters
+   * include uppercase characters
+   * include numeric characters
+   * include special characters
+4. After all prompts are answered, a secured random password is generated matching the selected criteria and displayed in the textbox area.
 
-# Story
-Employer requesteed that i create an app that randomly generate a password that meets certain criteria which includes special characters, numbers, uppercase, and lowercase characters.
+## Installation
+1. Download or clone repository
+2. Open the main page (index.html) on your brower to view webpage
 
-Added HTML code to Ask user for type of password (lowercase, uppercase, numeric or special character) and length of password was set between 8 to 128 characters.
-When user clicks generate i Added loop that has 10 posible digits, 26 possible uppercase letters 26 possible lowercase letters which gives 62 possible characters
-I didn't use ACII numbers to represent the characters i only defined the ACII and what it represents in HTML.
+## Websites
+* Github: https://github.com/mathewosad/Password-generator
+* Deployed: https://mathewosad.github.io/Password-generator/
 
-Url is added on bootcamp
-Thank you
+## Features
+* HTML
+* CSS
+* JavaScript
 
+## Screenshot
+![Passoword Generator Screenshot](Assets/password-generator-demo.gif)
 
-
-
-
-
-
-<<<<<<< HEAD
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-=======
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
->>>>>>> e48be460313777f78a04f91eae09ee1cf8eceef9
+## License
+ISC
