@@ -26,7 +26,7 @@ This project was developed mainly with HTML and CSS,to create a random password 
 * JavaScript
 
 ## Screenshot
-![Passoword Generator Screenshot](Assets/password-generator-demo.gif)
+![Passoword Generator Screenshot](./img/screenshot.JPG)
 
 ## License
 ISC
